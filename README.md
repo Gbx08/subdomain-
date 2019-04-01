@@ -1,2 +1,2 @@
 # Subdomain TakeOver 
-     by IT-NINJA
+#    by IT-NINJA
